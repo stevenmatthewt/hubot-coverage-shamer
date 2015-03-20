@@ -1,0 +1,14 @@
+{
+  "name": "hubot-coverage-shamer",
+  "version": "0.0.1",
+  "description": "Monitors coverage and yells at people who drop below a threshold",
+  "main": "coverage-shamer.coffee",
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Steven Thomas <steven.thomas@careerbuilder.com>",
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/stevenmatthewt/hubot-coverage-shamer"
+  }
+}
