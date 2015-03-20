@@ -10,5 +10,8 @@
   "respository": {
     "type": "git",
     "url": "https://github.com/stevenmatthewt/hubot-coverage-shamer"
+  },
+  "dependencies": {
+    "hubot-contacts": "git://github.com/stevenmatthewt/hubot-contacts.git#master"
   }
 }
